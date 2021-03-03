@@ -1,0 +1,1 @@
+# One page store template - front-end learning project
